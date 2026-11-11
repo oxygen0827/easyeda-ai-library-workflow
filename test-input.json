@@ -1,0 +1,22 @@
+{
+  "target": "TPS54331DR",
+  "package": "D, SOIC-8, no exposed pad",
+  "datasheet": "TPS54331-family-SLVS839F.pdf",
+  "source": "TPS54331-family-SLVS839F.pdf",
+  "sha256": "94afb96d8b709e87314c5e9800a55e77f30b11bc22fbb3bbea8d1f58436eac88",
+  "pin_page": 4,
+  "mechanical_page": 34,
+  "landpattern_page": 35,
+  "pins": {
+    "1": "BOOT",
+    "2": "VIN",
+    "3": "EN",
+    "4": "SS",
+    "5": "VSENSE",
+    "6": "COMP",
+    "7": "GND",
+    "8": "PH"
+  },
+  "review_note": "Use D package left pinout. Pin 9 exposed pad belongs only to DDA package. Page35 example land pattern differs from physical lead geometry.",
+  "status": "completed_with_manual_corrections; see docs/trial-report.md"
+}

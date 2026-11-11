@@ -1,0 +1,108 @@
+{
+  "ok": true,
+  "value": {
+    "doc": {
+      "documentType": 1,
+      "uuid": "e69d83c5487e3a38",
+      "tabId": "e69d83c5487e3a38@1744d807227c1a0bfa3a92e95a1460e5d28a2ac8072713c607a1d87c86d52921",
+      "parentProjectUuid": "1744d807227c1a0bfa3a92e95a1460e5d28a2ac8072713c607a1d87c86d52921"
+    },
+    "components": [
+      {
+        "async": true,
+        "primitiveType": "Component",
+        "primitiveId": "0fd6498f9e78ab22",
+        "componentType": "sheet",
+        "x": 0,
+        "y": 0,
+        "subPartName": "pid8a0e77bacb214e",
+        "rotation": 0,
+        "mirror": false,
+        "addIntoBom": true,
+        "addIntoPcb": true,
+        "net": "",
+        "component": {
+          "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+          "uuid": "cdd7d189d1d4bd0c",
+          "name": "Drawing-Symbol_A4"
+        },
+        "symbol": {
+          "uuid": "612f3c5c243197d7",
+          "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+          "name": "Drawing-Symbol_A4"
+        },
+        "name": "",
+        "otherProperty": {
+          "Company": "嘉立创EDA",
+          "Drawed": "",
+          "Reviewed": "",
+          "Part Number": "",
+          "Version": "V1.0",
+          "Page Size": "A4",
+          "@Project Name": "VibeHard_AI_Library_Trial_TPS54331DR_20261111",
+          "@Update Date": "2026-11-11",
+          "@Create Date": "2026-11-11",
+          "@Board Name": "Board1",
+          "@Page Name": "P1",
+          "@Create Time": "16:07:30",
+          "@Page Count": "1",
+          "@Page No": "1",
+          "@Schematic Name": "Schematic1",
+          "@Update Time": "16:07:31",
+          "@Assembly Variant": "Basic",
+          "Border": "1",
+          "Title Block Position": "3",
+          "Size": "A4",
+          "Width": "1170",
+          "Height": "825",
+          "Region Start": "1",
+          "X Region Count": "6",
+          "Y Region Count": "4",
+          "Blade Width": "10",
+          "Color": "",
+          "Title Block": "1",
+          "Description": ""
+        }
+      },
+      {
+        "async": true,
+        "primitiveType": "Component",
+        "primitiveId": "7c2903741c0a13bd",
+        "componentType": "part",
+        "x": 1170,
+        "y": 815,
+        "subPartName": "e48412a8dfbf86e0",
+        "rotation": 0,
+        "mirror": false,
+        "addIntoBom": true,
+        "addIntoPcb": true,
+        "net": "",
+        "component": {
+          "libraryUuid": "VibeHard_AI_Library_Test_20261110",
+          "uuid": "f71be039b5c4571c",
+          "name": "TPS54331DR_AI_TRIAL"
+        },
+        "symbol": {
+          "uuid": "30d430efba27dc51",
+          "libraryUuid": "VibeHard_AI_Library_Test_20261110",
+          "name": "TPS54331DR_AI_TRIAL"
+        },
+        "footprint": {
+          "uuid": "9439fdc69cdc8b5a",
+          "libraryUuid": "VibeHard_AI_Library_Test_20261110",
+          "name": "TPS54331DR_SOIC8_AI_TRIAL"
+        },
+        "designator": "U1",
+        "name": "",
+        "uniqueId": "",
+        "otherProperty": {
+          "PCB Layer": "Default",
+          "Description": ""
+        }
+      }
+    ],
+    "saved": true
+  },
+  "logs": [],
+  "durationMs": 650
+}

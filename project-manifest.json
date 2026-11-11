@@ -1,0 +1,32 @@
+[
+  {
+    "file": "VibeHard_AI_Library_Trial_TPS54331DR_20261111.eprj3",
+    "bytes": 2330,
+    "sha256": "5632dd14be6a001fd3e2a4d1453a3812a0b3c1d1005fb2297b3822bd592af2ae"
+  },
+  {
+    "file": "eprj3-intro.md",
+    "bytes": 5976,
+    "sha256": "aa51d38bb0c3cc0fe8270da65b63f16a3ee905c601212724ddbd289d5e06529b"
+  },
+  {
+    "file": "panel/Panel1.epan2",
+    "bytes": 255,
+    "sha256": "c5f76fd4e184df585596d33fca9a35f0449991a7cc286f0c92f4f232e7b70b2d"
+  },
+  {
+    "file": "pcb/PCB1.epcb2",
+    "bytes": 83824,
+    "sha256": "ab225b6b95472b879bdde792c80e2433ee5be42142335d411db898b07f8d0d0e"
+  },
+  {
+    "file": "sch/Schematic1/P1.esch2",
+    "bytes": 132430,
+    "sha256": "3d49ef7620501ea5f9a0d6401d7dddb0b7b0c92b164f3eed2f9ae81ea82fcc12"
+  },
+  {
+    "file": "sch/Schematic1/Schematic1.ecfg",
+    "bytes": 755,
+    "sha256": "6ec8948fa5eed4c1083f48d96c84d891190113cb2b0b62f3a96b17b1cf0ef49a"
+  }
+]

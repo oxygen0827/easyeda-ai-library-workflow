@@ -1,0 +1,22 @@
+{
+  "scope": "AI建库测试 folder only",
+  "metadata_fields_cleared": {
+    "user": 17,
+    "creator": 3,
+    "modifier": 3,
+    "owner": 4,
+    "owner_uuid": 1,
+    "creator_uuid": 1,
+    "modifier_uuid": 1
+  },
+  "unchanged": [
+    "document and primitive UUID references",
+    "geometry",
+    "pin definitions and associations",
+    "official eext binary",
+    "TI PDF and page images"
+  ],
+  "original_archive_sha256": "de6b226582c85c0803a1927b7c0a70e4c7e2144b27977c0b998a941e8afd5cf6",
+  "public_archive_sha256": "3632fc41f5a61b576f76d061b57e99c618543f04df9499a2ebf764fc0d365f37",
+  "native_reopen_of_sanitized_copy": "not tested"
+}

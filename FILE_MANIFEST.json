@@ -1,0 +1,155 @@
+{
+  "description": "Public sanitized copy; manifest excludes itself and .git",
+  "files": [
+    {
+      "file": ".gitignore",
+      "bytes": 57,
+      "sha256": "54dbcdf157558cdb0daf00849af0287fa0bace94e95f20516ee8bd2c44598ca2"
+    },
+    {
+      "file": "README.md",
+      "bytes": 14048,
+      "sha256": "8528584c6367f4a332a74e1d75c075591166e1b092223b5b4db24e0bb2b43885"
+    },
+    {
+      "file": "THIRD_PARTY_NOTICES.md",
+      "bytes": 2072,
+      "sha256": "1f45d5b7c1e70beee585568c5ad0dd5869a8856856f6c0c514c07d2630bbb8c1"
+    },
+    {
+      "file": "TPS54331-D-landpattern-page35.png",
+      "bytes": 47397,
+      "sha256": "4d7f7b17756a594d34ceec9c031f8d77dc1f029840e9ffca9a2f78c44d754bb4"
+    },
+    {
+      "file": "TPS54331-D-mechanical-page34.png",
+      "bytes": 42060,
+      "sha256": "9d1fc44ee7ed7a02d9343eebb2b656e7a1e90c98667fb05533bae73dff4bfd99"
+    },
+    {
+      "file": "TPS54331-family-SLVS839F.pdf",
+      "bytes": 1518831,
+      "sha256": "94afb96d8b709e87314c5e9800a55e77f30b11bc22fbb3bbea8d1f58436eac88"
+    },
+    {
+      "file": "TPS54331-pinout-page4.png",
+      "bytes": 77406,
+      "sha256": "442d0d2fb166c87142b8f70472f4b1fc131382948b29d886255fe995284bae30"
+    },
+    {
+      "file": "TPS54331DR_AI_TRIAL.elibz2",
+      "bytes": 8012,
+      "sha256": "3632fc41f5a61b576f76d061b57e99c618543f04df9499a2ebf764fc0d365f37"
+    },
+    {
+      "file": "VibeHard_AI_Library_Trial_TPS54331DR_20261111/VibeHard_AI_Library_Trial_TPS54331DR_20261111.eprj3",
+      "bytes": 2330,
+      "sha256": "5632dd14be6a001fd3e2a4d1453a3812a0b3c1d1005fb2297b3822bd592af2ae"
+    },
+    {
+      "file": "VibeHard_AI_Library_Trial_TPS54331DR_20261111/eprj3-intro.md",
+      "bytes": 5976,
+      "sha256": "aa51d38bb0c3cc0fe8270da65b63f16a3ee905c601212724ddbd289d5e06529b"
+    },
+    {
+      "file": "VibeHard_AI_Library_Trial_TPS54331DR_20261111/panel/Panel1.epan2",
+      "bytes": 255,
+      "sha256": "c5f76fd4e184df585596d33fca9a35f0449991a7cc286f0c92f4f232e7b70b2d"
+    },
+    {
+      "file": "VibeHard_AI_Library_Trial_TPS54331DR_20261111/pcb/PCB1.epcb2",
+      "bytes": 83824,
+      "sha256": "ab225b6b95472b879bdde792c80e2433ee5be42142335d411db898b07f8d0d0e"
+    },
+    {
+      "file": "VibeHard_AI_Library_Trial_TPS54331DR_20261111/sch/Schematic1/P1.esch2",
+      "bytes": 132430,
+      "sha256": "3d49ef7620501ea5f9a0d6401d7dddb0b7b0c92b164f3eed2f9ae81ea82fcc12"
+    },
+    {
+      "file": "VibeHard_AI_Library_Trial_TPS54331DR_20261111/sch/Schematic1/Schematic1.ecfg",
+      "bytes": 755,
+      "sha256": "6ec8948fa5eed4c1083f48d96c84d891190113cb2b0b62f3a96b17b1cf0ef49a"
+    },
+    {
+      "file": "ai-library-builder_v2.9.2_zh-cn.eext",
+      "bytes": 8246318,
+      "sha256": "b5c50629743be06453a1258a71529bec4cd093584253ed6d79f7c543849d48a6"
+    },
+    {
+      "file": "docs/footprint-correction.md",
+      "bytes": 1861,
+      "sha256": "01d6ad6df8574e70ea63fff9fa96d8a5f59c6955e6d44e0fa200633053f5863e"
+    },
+    {
+      "file": "docs/publication-provenance.json",
+      "bytes": 640,
+      "sha256": "c15d56432237d7d6707872189b27286e8be996b62eaf5baf7eda468f14702dc0"
+    },
+    {
+      "file": "docs/trial-report.md",
+      "bytes": 5625,
+      "sha256": "6aad7cb7ff121b33c444ff815fd7fd4d9d30bc520f580349e5d0ecbca77c850d"
+    },
+    {
+      "file": "footprint-raw-default-api.json",
+      "bytes": 6321,
+      "sha256": "622a0ba269c737afb69f290a63205d8e306ead74a6ed321775424d1b12825935"
+    },
+    {
+      "file": "pcb-pins-api.json",
+      "bytes": 8961,
+      "sha256": "13aea41d1db775a341990e40dabdcf529d7d0a454ecbb4f66d84f4472e52a2fd"
+    },
+    {
+      "file": "pcb-placement-api.json",
+      "bytes": 2695,
+      "sha256": "0af8c182cfbd11df64d85649a453fd942c4447cf6615e8d13642ef971de84a30"
+    },
+    {
+      "file": "project-manifest.json",
+      "bytes": 904,
+      "sha256": "8111844b0229cf312f8b2dda1d1afeb7613e0b77e5c01823f2da89fe017c3c00"
+    },
+    {
+      "file": "schematic-placement-api.json",
+      "bytes": 3152,
+      "sha256": "ac51db9e03b8f77ddf44413df01a313a56c746c3319c3640429b63ad1696856e"
+    },
+    {
+      "file": "schematic-placement-final-api.json",
+      "bytes": 3143,
+      "sha256": "45aedb73b8fdac12f23d50ac14b9f690f51f0089c86db225d5675c076786871a"
+    },
+    {
+      "file": "scripts/verify_bundle.py",
+      "bytes": 5105,
+      "sha256": "cd51c1fefeeee0f838818677dd952b12dc7a6c9368dfa8bbc17881e0169c81df"
+    },
+    {
+      "file": "symbol-device-associated-api.json",
+      "bytes": 4991,
+      "sha256": "d1e28b780beaf0ca2c20554965700732051bff9783ea2d57e215189167e2c7fd"
+    },
+    {
+      "file": "test-input.json",
+      "bytes": 690,
+      "sha256": "331e4251d5a841c56cb3d60674353380df46b531982f0e9968eefa7541649975"
+    },
+    {
+      "file": "third-party/ai-library-builder-CHANGELOG.md",
+      "bytes": 1377,
+      "sha256": "e58d855710c9a51f04dbfa7684c191b5f7ebee6648a9be437ed9e30154e4dafe"
+    },
+    {
+      "file": "third-party/ai-library-builder-LICENSE",
+      "bytes": 10882,
+      "sha256": "4822eb00dda345a406cc96b8dc352f5d851c5fb216c0fcc14190a107b56222e4"
+    },
+    {
+      "file": "third-party/ai-library-builder-README.md",
+      "bytes": 3740,
+      "sha256": "44cb543939214e43480af5d53f24e190dd5457511b95a308faff69d762018844"
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "ok": true,
+  "value": {
+    "saved": true,
+    "doc": {
+      "documentType": 2,
+      "uuid": "42b6e9d0a69a49da861ff2da72f9de20",
+      "tabId": "42b6e9d0a69a49da861ff2da72f9de20@VibeHard_AI_Library_Test_20261110",
+      "parentLibraryUuid": ""
+    },
+    "pins": [
+      {
+        "async": true,
+        "primitiveType": "Pin",
+        "x": -20,
+        "y": 20,
+        "pinNumber": "1",
+        "pinName": "BOOT",
+        "rotation": 180,
+        "pinLength": 20,
+        "pinColor": null,
+        "pinShape": "None",
+        "pinType": "OUT",
+        "primitiveId": "6eb6f6c1b780c9d6",
+        "otherProperty": {},
+        "noConnected": false
+      },
+      {
+        "async": true,
+        "primitiveType": "Pin",
+        "x": -20,
+        "y": 40,
+        "pinNumber": "2",
+        "pinName": "VIN",
+        "rotation": 180,
+        "pinLength": 20,
+        "pinColor": null,
+        "pinShape": "None",
+        "pinType": "POWER",
+        "primitiveId": "c40cbdac43856e73",
+        "otherProperty": {},
+        "noConnected": false
+      },
+      {
+        "async": true,
+        "primitiveType": "Pin",
+        "x": -20,
+        "y": 60,
+        "pinNumber": "3",
+        "pinName": "EN",
+        "rotation": 180,
+        "pinLength": 20,
+        "pinColor": null,
+        "pinShape": "None",
+        "pinType": "IN",
+        "primitiveId": "b7ec163c6ca1427f",
+        "otherProperty": {},
+        "noConnected": false
+      },
+      {
+        "async": true,
+        "primitiveType": "Pin",
+        "x": -20,
+        "y": 80,
+        "pinNumber": "4",
+        "pinName": "SS",
+        "rotation": 180,
+        "pinLength": 20,
+        "pinColor": null,
+        "pinShape": "None",
+        "pinType": "IN",
+        "primitiveId": "2c103ae067605ba7",
+        "otherProperty": {},
+        "noConnected": false
+      },
+      {
+        "async": true,
+        "primitiveType": "Pin",
+        "x": 80,
+        "y": 80,
+        "pinNumber": "5",
+        "pinName": "VSENSE",
+        "rotation": 0,
+        "pinLength": 20,
+        "pinColor": null,
+        "pinShape": "None",
+        "pinType": "IN",
+        "primitiveId": "3cfabdbdec0d6c97",
+        "otherProperty": {},
+        "noConnected": false
+      },
+      {
+        "async": true,
+        "primitiveType": "Pin",
+        "x": 80,
+        "y": 60,
+        "pinNumber": "6",
+        "pinName": "COMP",
+        "rotation": 0,
+        "pinLength": 20,
+        "pinColor": null,
+        "pinShape": "None",
+        "pinType": "OUT",
+        "primitiveId": "98bcc5357a81c91b",
+        "otherProperty": {},
+        "noConnected": false
+      },
+      {
+        "async": true,
+        "primitiveType": "Pin",
+        "x": 80,
+        "y": 40,
+        "pinNumber": "7",
+        "pinName": "GND",
+        "rotation": 0,
+        "pinLength": 20,
+        "pinColor": null,
+        "pinShape": "None",
+        "pinType": "GROUND",
+        "primitiveId": "a936137fd9500684",
+        "otherProperty": {},
+        "noConnected": false
+      },
+      {
+        "async": true,
+        "primitiveType": "Pin",
+        "x": 80,
+        "y": 19.999999999999996,
+        "pinNumber": "8",
+        "pinName": "PH",
+        "rotation": 0,
+        "pinLength": 20,
+        "pinColor": null,
+        "pinShape": "None",
+        "pinType": "OUT",
+        "primitiveId": "f443a92418d6f069",
+        "otherProperty": {},
+        "noConnected": false
+      }
+    ],
+    "device": {
+      "libraryType": "3",
+      "uuid": "cefdbf9134a6454baefbe15de076439c",
+      "libraryUuid": null,
+      "name": "TPS54331DR_AI_TRIAL",
+      "classification": [],
+      "association": {
+        "symbolType": 2,
+        "symbolUuid": "42b6e9d0a69a49da861ff2da72f9de20",
+        "symbol": {
+          "type": 2,
+          "uuid": "42b6e9d0a69a49da861ff2da72f9de20",
+          "libraryUuid": null
+        },
+        "footprintUuid": "69a080e9890c46e681f96d6a7e4294ab",
+        "footprint": {
+          "uuid": "69a080e9890c46e681f96d6a7e4294ab",
+          "libraryUuid": null
+        },
+        "images": []
+      },
+      "description": "",
+      "property": {
+        "name": "TPS54331DR_AI_TRIAL",
+        "designator": "U?",
+        "addIntoBom": true,
+        "addIntoPcb": true,
+        "otherProperty": {
+          "Symbol": "42b6e9d0a69a49da861ff2da72f9de20",
+          "Name": "",
+          "Footprint": "69a080e9890c46e681f96d6a7e4294ab",
+          "Designator": "U?",
+          "Add into BOM": "yes",
+          "Convert to PCB": "yes",
+          "SymbolName": {
+            "name": "TPS54331DR_AI_TRIAL",
+            "uuid": "42b6e9d0a69a49da861ff2da72f9de20",
+            "source": ""
+          },
+          "Description": "",
+          "FootprintName": {
+            "uuid": "69a080e9890c46e681f96d6a7e4294ab",
+            "name": "TPS54331DR_SOIC8_AI_TRIAL",
+            "source": ""
+          },
+          "Footprints": []
+        }
+      },
+      "subPartNames": [
+        "TPS54331DR_AI_TRIAL.1"
+      ]
+    }
+  },
+  "logs": [],
+  "durationMs": 58
+}
